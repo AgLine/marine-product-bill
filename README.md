@@ -73,15 +73,29 @@ flowchart TD
     D -->|로그인·회원가입·검색| B
 ```
 ---
-## 📷 실행 화면 예시
-<img width="939" height="318" alt="portfolio-details-1-1" src="https://github.com/user-attachments/assets/1612414c-7e3c-462a-8895-5dadd281b5b4" />
-
-<img width="838" height="1048" alt="portfolio-1" src="https://github.com/user-attachments/assets/38d346cd-a4ea-4fbe-b325-261fe337b84d" />
-
-<img width="921" height="635" alt="portfolio-details-1-3" src="https://github.com/user-attachments/assets/d6dd3604-7c05-4655-90fe-69f964c0c567" />
-
----
-## 💡 배운 점 & 성과
+## 📖 배운 점 & 느낀 점
 - 공공 API 연동 능력: JSON 데이터 파싱 및 가공 능력 향상
 - 네트워크 프로그래밍 경험: 소켓 기반 서버-클라이언트 구조 설계
 - 보안 고려: 비밀번호 재설정 및 임시 비밀번호 발급 프로세스 구현
+- 이번 프로젝트에서 JDBC와 소켓 통신은 이전에도 경험이 있었기 때문에 비교적 자신 있게 진행할 수 있었습니다. 반면, **공공데이터포털의 오픈API 활용은 처음이어서 걱정이되었습니다.**
+- 인증키 오류로 인해 데이터 요청이 실패하는 문제를 겪었지만, 원인을 빠르게 파악하고 해결하면서 문제 해결 능력을 키울 수 있었습니다.
+---
+
+## 📷 실행 화면 예시
+### 로그인
+<img width="939" height="318" alt="portfolio-details-1-1" src="https://github.com/user-attachments/assets/1612414c-7e3c-462a-8895-5dadd281b5b4" />
+<img width="831" height="515" alt="image" src="https://github.com/user-attachments/assets/795eb4a3-e31c-4440-8603-4d968f0bfeca" />
+
+---
+### 오픈API
+<img width="836" height="515" alt="image" src="https://github.com/user-attachments/assets/9f62640c-8e5b-4303-bd63-5e25737696f8" />
+<img width="921" height="635" alt="portfolio-details-1-3" src="https://github.com/user-attachments/assets/d6dd3604-7c05-4655-90fe-69f964c0c567" />
+
+---
+### 회원관리
+<img width="595" height="648" alt="image" src="https://github.com/user-attachments/assets/ccbd8fe6-99e2-4fe7-a5b7-43e37416027e" />
+<img width="594" height="229" alt="image" src="https://github.com/user-attachments/assets/d8cdad7a-f89a-45a6-9d5f-3666bc495c33" />
+<img width="607" height="206" alt="image" src="https://github.com/user-attachments/assets/1c6155a6-c824-45b3-9623-7b324f74086d" />
+
+
+
